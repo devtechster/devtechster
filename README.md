@@ -7,6 +7,7 @@
 ### Spring 2023
 ### 🔹 [MIS502 - Data Management for Analytics](https://github.com/devtechster/MIS502-Data-Management-for-Analytics)
 ### 🔹 [CS547 - Information Retrieval](https://github.com/devtechster/CS547-Information-Retrieval)
+### 🔹 [CS5084 - Introduction to Algorithms: Design and Analysis](https://github.com/devtechster/CS5084-Introduction-to-Algorithms-Design-and-Analysis)
 
 ### Summer 2023
 ### 🔹 [CS5003 - Foundations of Computer Science](https://github.com/devtechster/CS5003-Foundations-of-Computer-Science)
@@ -17,5 +18,5 @@
 
 ### Spring 2024
 ### 🔹 [CS539 - Machine Learning](https://github.com/devtechster/CS539-Machine-Learning)
-
+### 🔹 [CS573 - Data Visualization](https://github.com/devtechster/CS573-Data-Visualization)
 
