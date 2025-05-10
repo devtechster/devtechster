@@ -20,3 +20,6 @@
 ### 🔹 [CS539 - Machine Learning](https://github.com/devtechster/CS539-Machine-Learning)
 ### 🔹 [CS573 - Data Visualization](https://github.com/devtechster/CS573-Data-Visualization)
 
+### Fall 2024
+### 🔹 [MIS576 - Project Management](https://github.com/devtechster/MIS576-Project-Management)
+
